@@ -1,8 +1,7 @@
 ### Hi there, I'm Beauver! 👋
-- 🌱 I'm currently a freshmen student at a HBO-ICT (University of Applied Sciences, IT) school! Still learning how to code!
+- 🌱 I'm currently a second year student at a HBO-ICT (University of Applied Sciences, IT) school!
 - 📘 I'm currently working on a few projects, for school and small companies.
-- 📖 I'm currently most familluire with Java, and the PaperMC library!
-- 📮 If you wish to contact me, please email business@beauver.com
+- 📖 I'm currently most familluire with Java!
 
 <picture>
   <source
